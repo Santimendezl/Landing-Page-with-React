@@ -10,7 +10,7 @@ const Home = () => {
 		<div className="text-center">
 			<Nav/>
 			<Jumbotron/>
-			<div className="d-flex justify-content-lg-around mx-lg-5">
+			<div className="d-flex justify-content-sm-center justify-content-lg-between mx-lg-5">
 				<Card/>
 				<Card/>
 				<Card/>
